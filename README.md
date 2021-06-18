@@ -2,6 +2,6 @@
 
 _Created by Kelsey Siman_
 
-# Background
+## Background
 
 This repository is a work in progress.
