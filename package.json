@@ -1,0 +1,11 @@
+{
+  "name": "doctored-up",
+  "version": "1.0.0",
+  "description": "learn to cook the easy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelsey Siman",
+  "license": "ISC"
+}
