@@ -1,7 +1,9 @@
 # Doctored Up
 
+https://doctored-up.netlify.app/
+
 _Created by Kelsey Siman_
 
-## Background
+## About
 
-This repository is a work in progress.
+This web app is a work in progress.
